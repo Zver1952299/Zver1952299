@@ -13,7 +13,7 @@
 - **ML/DL**: TensorFlow, PyTorch, Keras, Scikit-learn, NumPy, Pandas, Matplotlib, OpenCV, LlamaIndex.  
 - **Languages**: Python, JavaScript, TypeScript.  
 - **Backend**: Django, FastAPI, Node.js.  
-- **Frontend**: React, HTML, CSS.  
+- **Frontend**: React, Redux, HTML, CSS.  
 
 ## 🧩 Pet Projects:
 
